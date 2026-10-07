@@ -1,0 +1,18 @@
+{
+    "honda":[
+        {"modelo":"HRV","cor":"cinza","valor":"70000,00"},
+        {"modelo":"FIT","cor":"azul","valor":"50000,00"}
+    ],
+    "volkswagem":[
+        {"modelo":"Golf","cor":"branco","valor":"70000,00"},
+        {"modelo":"Polo","cor":"vermelho","valor":"60000,00"}
+    ],
+    "chevrolet":[
+        {"modelo":"Cruze","cor":"preto","valor":"50000,00"},
+        {"modelo":"Tracker","cor":"vinho","valor":"70000,00"}
+    ],
+    "ford":[
+        {"modelo":"Fusion","cor":"preto","valor":"80000,00"},
+        {"modelo":"Focus","cor":"prata","valor":"60000,00"}
+    ]
+}
